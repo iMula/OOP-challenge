@@ -17,7 +17,7 @@ class Pokemon {
 
 
 const pickachu = new Pokemon("Pickachu", "electric", "Thunderbolt");
-const snorlax = new Pokemon("Snorlax", "psychic", "Amnesia")
+const snorlax = new Pokemon("Charizard", "fire", "blaze");
 
 console.log(pickachu.attackUsed());
 console.log(snorlax.attackUsed());
